@@ -5,7 +5,8 @@ gems from unlocking and levelling up planets.
 
 ## Executable File
 
-The executable file "PLANET_CLICKER.jar" is available in 
+The executable file "PLANET_CLICKER.jar" is available in
+https://github.com/DigitalCreativeApkDev/PLANET_CLICKER/blob/master/jar/PLANET_CLICKER.jar.
 
 ## How to Use
 
